@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-09-05 16:13:25 UTC
-# Total domains: 102886
+# Generated: 2026-09-05 22:24:12 UTC
+# Total domains: 102906
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -336,6 +336,7 @@
 03p17y.cc
 03rmn5.us
 03sao.top
+03wvqe2b.go-flashburn.com
 03xpj03.com
 04.614lo.ru
 04.k59ee.ru
@@ -2088,6 +2089,7 @@
 2014.donteezy007.com
 2015letsdoit.in
 2020bill.com
+2021.rapport-gestion.avsvaud.ch
 2021rcp-congress.com
 2024.123hack.us
 20240224105334.pm
@@ -5418,6 +5420,7 @@
 9pm93zo8.br1ghtf0rm.ru
 9pt.bu1gep2lest.ru
 9pulblfs.drubenginecologo.com
+9pzs9sji.usen-flashburn.com
 9q.55-0p.ru
 9q.raincr5st.ru
 9q0r8r20.m0ri5ompump.ru
@@ -19978,6 +19981,7 @@ cheats-game.ru
 cheats13.bl.ee
 chebnkd.datacntrsecured.com
 chebsajexport.com
+check-cf.site
 check-coin.com
 check-compensation.com
 check-dev.learnstore.vip
@@ -36157,6 +36161,7 @@ fvakro.life
 fvarelaart.com
 fvb.ci6ef.ru
 fvde.xamir3on.lat
+fvdoqk15.us-en-nervesoothe.com
 fvess.ru
 fvffv.wlwyb.com
 fvfsf.meltquark.ru
@@ -39452,6 +39457,7 @@ gov.flstudios.website
 gov.hanel.work
 govbtcclaim.org
 govenor.in
+govepoqi.workers.dev
 gover-apyx.app
 governace-flarenetwork.app
 governance-apyx.app
@@ -48541,6 +48547,7 @@ jycajame.workers.dev
 jycakezi.workers.dev
 jycatdj.echoxien.com
 jydiadog.eng-nitrilean.com
+jyg77562.usa-puraboost.us
 jyhdzq.eng-us--goldalign.com
 jyheezbl.questionsmotor.xyz
 jyhgpvvuctpbssvdyr.brentwoodautoupholstery.com
@@ -49103,6 +49110,7 @@ kaliwelnesscentre.com
 kallisto-vida.live
 kallistobee.ddns.net
 kalm3m.emberklamm.ru
+kalo.tetrasol.fr
 kaloed.pro
 kalongo.ru
 kaloop.cyou
@@ -52091,6 +52099,7 @@ lamdamartime.com
 lamefrp.xyz
 lamelioshop.com
 lamentation-ink.ga
+lameripi.workers.dev
 lamiacameraconvista.com
 lamid1.nut.cc
 lammegoedzakkers.be
@@ -54585,6 +54594,7 @@ ltojraf.echo-xen.us
 ltpbrwx.en-us-slimsounds.com
 ltqpvf3ugbvxvlvyufeppnh5nlt7h5mqnwyapq62m73ibhptwjka.arweave.net
 lts.cloudvaly.com
+ltsyh64875.workers.dev
 ltt.bel-technology.com
 lttazjwo.pishbini90bet.bet
 ltvz.jadoou.biz
@@ -55350,6 +55360,7 @@ m7p.4md69.ru
 m7qc.1s-1n.ru
 m7r4r2i2.stackpathcdn.com
 m7rd.frosthain.online
+m7t4i0k0.us-en-morningcoffeeritual.com
 m7x.lunarlicht.ru
 m7y1.7aoasu3.ru
 m7y1.8d9691.online
@@ -60295,6 +60306,7 @@ muk3av.cr1pptit2n.ru
 mukmnvwls.101motorsports.net
 mukphol.com
 mukvsxft.sazebetonarme.xyz
+mukyle.workers.dev
 mukyzyxi.workers.dev
 mulannu.click
 mulberrylodestar.top
@@ -60932,6 +60944,7 @@ mywuoamggcewmasy.xyz
 myxamop.com
 myyaqaegcumskqwq.xyz
 myyemuuguymuowci.xyz
+myyln07659.workers.dev
 myymmymemiwyoewg.xyz
 myyogi.yoga
 myyoikamwqwuuaia.xyz
@@ -68663,6 +68676,7 @@ pigeon4all.org
 pigeonbase.org
 pigment.be
 pigmentzorg.be
+pigrecopuntozero.com
 pigtweet-kitdiff-it.christmas
 piguvere.workers.dev
 pihiqoku.workers.dev
@@ -88257,6 +88271,7 @@ tpl.tfba.me
 tpleflpokadkeoot.ws
 tploaeieifuebaub.ws
 tpmspa.it
+tpmufqy4.enus-us-glycomute.com
 tpnklt.k-optic.com
 tpr.hati3ea0.ru
 tpronails.com
@@ -91362,6 +91377,7 @@ us-en-us-theeloncode.com
 us-en-us-xenburn.com
 us-eng-sightfresh.com
 us-eng-us-gutdrops.com
+us-eng-zensulin.com
 us-enkeyslimdrops.com
 us-ennervearmor.com
 us-flashbrn.com
@@ -91501,6 +91517,7 @@ usen-enerflow.com
 usen-glucotrust-bites.com
 usen-glycofree.com
 usen-gutlite.com
+usen-memorylift.com
 usen-neurosharp.com
 usen-neurovera.com
 usen-pegasus.com
@@ -93933,6 +93950,7 @@ vignobles-trois-lacs.ch
 vigny.fr
 vigor-14.jp
 vigorcrestflow.com
+vigoridy.workers.dev
 vihaiha.com
 vihangamyoga.org
 vihuqau.ru
@@ -94717,6 +94735,7 @@ vpionline.org
 vpkw420q.hcuoprednic.ru
 vplserver.duckdns.org
 vpn.connectmeinside.com
+vpn.dev.swisscows.app
 vpn.dmg-tech.com
 vpn.rin.host
 vpn4.my
@@ -98652,6 +98671,7 @@ xa60r.cfd
 xabanak.ru
 xablgjgqpfayxcoan.com
 xacmgm.za.com
+xacqfhao.us-eng-zensulin.com
 xacuemp.bakhtazmaeii.com
 xadokyy0.ru
 xaesdb97.c2bba8etip.ru
