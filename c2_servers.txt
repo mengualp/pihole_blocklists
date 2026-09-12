@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-09-12 16:51:00 UTC
-# Total domains: 108487
+# Generated: 2026-09-12 23:19:47 UTC
+# Total domains: 108512
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -443,6 +443,7 @@
 05kckslot.site
 05lswjs.com
 05pn1.cc
+05psj0hg3r.workers.dev
 05q0h4x0-5500.euw.devtunnels.ms
 05qbny.us
 05starsstocks.com
@@ -683,6 +684,7 @@
 0hb2vcul.xen-burn.com
 0hc74.sbs
 0hcqat.us
+0hd4saaw.bossizmit.store
 0hfy318f.medstopmedicalservices.com
 0hhkh.net
 0hju4pn6nf.com
@@ -3236,6 +3238,7 @@
 4bjt2rceijktwedi.onion
 4bklvfdi.estradaannivers.digital
 4bl1n9f5.ar7aydia1ect.ru
+4blush.workers.dev
 4bv1v.sl0bozh5treak.ru
 4c.gtus-4.ru
 4c0ivjpf.5t0rmr1dge.ru
@@ -11662,6 +11665,7 @@ as.ty1un.ru
 as.vakun.ru
 as23.de
 as59n9n3.photoshopvn.net
+as9e2wvl.leswap.store
 asa-gmbh-bln.de
 asacleaningservices.com
 asaconsulting.co.za
@@ -13087,6 +13091,7 @@ aworthz.co.jp
 awosano-kureinladungen.de
 awouma.qpon
 awq.bluec0rest.ru
+awqe9upy69.workers.dev
 awqhnjewqjkl.icu
 awqiq4uh.amber-weld.ru
 awreti-3-uette.ru
@@ -17289,7 +17294,9 @@ boss1huesos.cc
 bossanovabeirut.com
 bossbabeai.com
 bossbey.store
+bosseskisehir.store
 bossinternationalstudies.com
+bossizmit.store
 bosslifesa.com
 bossmoney.xyz
 bossmoneytools.biz
@@ -17541,6 +17548,7 @@ br1ng0.5-milod-931-o.ru
 br247821.xyz
 br2z.com
 br41nx.smartb0x.ru
+br7p47p1.morgz.store
 bra.k8li.ru
 brabe.be
 bracipizza.com
@@ -19683,6 +19691,7 @@ captcha-cds.cfd
 captcha-cds.click
 captcha-checkpoint.top
 captcha-code.lol
+captcha-fortnite-cashback.info
 captcha-found.top
 captcha-web.cc
 captchadefence.com
@@ -23133,6 +23142,7 @@ collectiblemarkethub.com
 collectivedigital.co.za
 collectivefab.agency
 collectorkrypt.com
+collectortimetech.com
 colleenloveswords.com
 collegiummusicumnj.org
 colleststride.duckdns.org
@@ -25678,6 +25688,7 @@ d7.hyk5.ru
 d72.qu1rkbasin.ru
 d77tnb4bkmj3e366msrzllnwsi2t5e54e4yqh7zm7y5hlfwugnwzswad.onion
 d7i95j75.stgsolar.hu
+d7iihweg.fews.store
 d7m0.q3lo.online
 d7mta.1a2e6.ru
 d7q.a-8-xp.ru
@@ -25993,6 +26004,7 @@ danvilcommcorp.com
 danwhitten.org
 danxvideos.xyz
 danya.store
+danyfitmotion.ch
 danzep.tr2chec0rrupt.ru
 dao-asterdex.xyz
 dao-etherfi.xyz
@@ -34732,6 +34744,7 @@ f8bet.now
 f8beta-2.com
 f8bkf.grim1atin0s.ru
 f8i37n8m.en-theslimsplitsmethod.com
+f8kw4v0c.bosseskisehir.store
 f8rn.i-c-81.ru
 f8s.amberr0cket.ru
 f8t.emberfrontier.ru
@@ -35394,6 +35407,7 @@ feed2000.org
 feedback.luxurypartybustoronto.ca
 feedbuzz.info
 feeddirective.com
+feedspanone.net
 feedtheneed.org.pk
 feedwall.co
 feelingflyz.ru
@@ -40148,6 +40162,7 @@ gh.rm6a4.ru
 gh2.bg-4-o-2.ru
 gh5-a321.xyz
 gh6fn4zq.i90.bet
+gh77c2ooci.workers.dev
 ghabzyar.com
 ghadtanter.cf
 ghadtanter.ga
@@ -55884,6 +55899,7 @@ less-drives.gl.at.ply.gg
 lesseffort.io
 lestom-kurzy.sk
 lestyanesfiai.hu
+leswap.store
 let-card.gl.at.ply.gg
 let.gesybue11.ru
 let.qilaliy87.ru
@@ -57006,6 +57022,7 @@ loganwolverin2026.duckdns.org
 loganwolverin2027.duckdns.org
 loganwolverin2028.duckdns.org
 loganwolverin2040.duckdns.org
+logbasesky.com
 logbin.barchon-virtue.lat
 logbin.coop-san.lat
 logbin.faro7qor.lat
@@ -63078,6 +63095,7 @@ morganfinances.com
 morganstanleyinvestmentinfo.com
 morganstat.sbs
 morgen.zzz.com.ua
+morgz.store
 mori-midori.net
 mori90.com
 moriah.org.sg
@@ -65060,6 +65078,7 @@ navigocanada.ca
 navj.blackriverlawn.com
 navlsmetals.com
 navscorp.com
+navv.store
 navy.k-8-li.ru
 nawacyqi.workers.dev
 nawafidpress.com
@@ -66022,6 +66041,7 @@ nhzqisk.greenestreetchurch.com
 ni.khhu-8.ru
 ni.vqod2.ru
 ni5.bid-5.ru
+niaa.store
 niafinancegroup.com
 niagaraonlineca.com
 niageo.com
@@ -67335,6 +67355,7 @@ nuotox.com
 nuovosarto.com
 nupass.online
 nupenetwork.org
+nupogily.workers.dev
 nupohuy.com
 nuqica.workers.dev
 nuqotya6.ru
@@ -70885,6 +70906,7 @@ packetrelay.wiki
 packgerrr.testingweblink.com
 packnoirland2.zexorcloudsync.garden
 packpros.co.za
+packs.kaipi.ch
 paclficinsight.com
 pacname.org
 pacs-shop.de
@@ -96965,6 +96987,7 @@ uugywgoaymcyagyw.xyz
 uuh7n2c4.fileboroo.com
 uuh9890-32474.portmap.host
 uuiasiguauaummiu.xyz
+uuici20b.navv.store
 uuicqsqwaiugcmuk.xyz
 uuicsqymueuwsoys.xyz
 uuid.thetrancoe.com
@@ -100325,6 +100348,7 @@ vvvt.vip
 vvx.re7x.ru
 vvxcqgv.jamjahani.world
 vw.xavv.ru
+vw7sqxax.niaa.store
 vw85.icu
 vware.duckdns.org
 vwbtp.akonyvelod.hu
@@ -101012,6 +101036,7 @@ wbn.ch
 wbnews.info
 wbnggxoc.tractor11.com
 wbpypinui.generososbakerycafe.com
+wbqmiqiofh.workers.dev
 wbs.wbs-france.com
 wbs.zephirenr.com
 wbworkshops.com
