@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-09-13 01:20:07 UTC
-# Total domains: 108512
+# Generated: 2026-09-13 03:22:05 UTC
+# Total domains: 108530
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3406,6 +3406,7 @@
 4rb0f78fcs.workers.dev
 4revergreen.com
 4reverinmymind.com
+4rqjjify.omars.store
 4rray-dock.7zorelax.lat
 4rx0l.skyhollow.ru
 4ry8jdls.sparmarkt.qpon
@@ -17073,6 +17074,7 @@ bomcaz.com
 bomewex.com
 bominagroups.com
 bommgrest.ru
+bomyhego.workers.dev
 bon-debarras-paris.fr
 bonandeve.com
 bonanzadesign-my.com
@@ -17297,6 +17299,7 @@ bossbey.store
 bosseskisehir.store
 bossinternationalstudies.com
 bossizmit.store
+bosskayseri.store
 bosslifesa.com
 bossmoney.xyz
 bossmoneytools.biz
@@ -40164,6 +40167,7 @@ gh5-a321.xyz
 gh6fn4zq.i90.bet
 gh77c2ooci.workers.dev
 ghabzyar.com
+ghadi.store
 ghadtanter.cf
 ghadtanter.ga
 ghadtanter.gq
@@ -50029,6 +50033,7 @@ jensydesign.com
 jenxop.v-1-nexettle.ru
 jepbtnj.pasur21.com
 jeplox.e9uatp2nth.ru
+jeqawoha.workers.dev
 jeqov.run
 jequfu.workers.dev
 jer.demisemarzban.top
@@ -54091,6 +54096,7 @@ kudeta.fm
 kudi.netau.net
 kudram.hiredp1ayfu1.ru
 kudsanstudio.com
+kududuzy.workers.dev
 kueaiikiymwsmqoc.xyz
 kuechen-handel.de
 kuechen-welt.eu
@@ -59828,6 +59834,7 @@ marcphillipsrugs.ml
 marcsons.com
 marcusolausson.com
 marcyscake.it
+mard.store
 mardecha.com.br
 marden.com.co
 marduk.top
@@ -62016,6 +62023,7 @@ miprol.datashade.ru
 mipsanmakina.com
 miq.toludye0.ru
 miqhc.bmiroda.hu
+miqmh80v.bosskayseri.store
 miqvut.g2erharve5t.ru
 mira-network.net
 mirabeau.quu.cc
@@ -66857,6 +66865,7 @@ nott.app
 nottheskynews.com
 nottinghamcarpetsandblinds.com
 noueafhuoaefhefu.su
+noug.store
 noughties.net
 nouris.gr
 nous.ie
@@ -67340,6 +67349,7 @@ numeqci.bet
 numeric-aire.fr
 numericacredit.co.com
 numerix360.pro
+numerologie-brittavonb.ch
 numerosoftware.click
 numerosporno.com
 numogi.in.ua
@@ -68871,13 +68881,16 @@ omarfadhilalhameli.com
 omarinjakuzzii.com
 omarlabastida.com
 omarllerena.com
+omars.store
 omaxtrans.com
 ombpfuc.eastcoastrefrig.com
 omcafe.net
+omckf2vc.omec.store
 ome-loan-landers-71214.click
 ome-pest-control-9evich.zone
 ome-roofing-wjyjof.live
 omeade.2k3phuchau.christmas
+omec.store
 omega-frontier.com
 omega.1nju5tred.ru
 omega.ambercoil.ru
@@ -73748,6 +73761,7 @@ portykold.com
 porw.org
 pos-exklusiv.de
 pos.808skor.org
+pos.amirtham.org
 pos.bgit.eu
 pos.cu.cc
 pos.ddsis.com.mx
@@ -92339,6 +92353,7 @@ tiaraleenclub.com
 tibamyi7.ru
 tibetanclassics.org
 tibetanmedicine-edu.org
+tibexoda.workers.dev
 tibiaredborn.com
 tiblad.den1mp7imad.ru
 tibqov.incur2b1epity.ru
@@ -94874,6 +94889,7 @@ u24b.hexapulse.ru
 u25u.darkf0x.ru
 u2b1.com
 u2cebvp9.fa1ditmim2ns.ru
+u2dqx82e.mard.store
 u2fanclub.nl
 u2fl6mod.stratosphericweatherballoon.digital
 u2kh.54o477354.online
@@ -95298,6 +95314,7 @@ ue.mistyshore.ru
 ue.r8li.ru
 ue.sun0rbit.ru
 ue0xfkgn.en-trumplapelpin.com
+ue4dgglt0t.workers.dev
 ueadcpad.com
 uebqukbsebckuqbk.com
 uec.pf-4-i-2.ru
@@ -95582,6 +95599,7 @@ uhqudkcw6b.workers.dev
 uhrle.com
 uhs3ppkp.spareing.com
 uhte.fr
+uhtu2p9o.ghadi.store
 uhurunetwork.com
 uhv.kufapoi3.ru
 uhv95fx8.betbuf.live
